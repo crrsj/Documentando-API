@@ -1,1 +1,1 @@
-projeto focado em sua doicumentação com a OpenApi,mais detalhes em suas fotos
+projeto focado em sua documentação com a OpenApi,mais detalhes em suas fotos
